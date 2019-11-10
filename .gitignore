@@ -1,0 +1,8 @@
+*.db
+*.db3
+
+venv/
+
+.idea/
+
+__pycache__/
