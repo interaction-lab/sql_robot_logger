@@ -3,6 +3,6 @@ log_info:
   robot_id: 7
 sql_database:
   host: database-1.csozaa62oxle.us-east-1.rds.amazonaws.com
-  password: adamhamden
+  password: ***********
   port: 3306
-  user: admin
+  user: ************
