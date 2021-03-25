@@ -29,7 +29,7 @@ REQUIRED = [
     'protobuf==3.10.0',
     'python-dateutil==2.8.1',
     'pytz==2019.3',
-    'PyYAML==5.1.2'
+    'PyYAML==5.4'
 ]
 
 # What packages are optional?
