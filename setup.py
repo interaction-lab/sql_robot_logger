@@ -26,7 +26,7 @@ REQUIRED = [
     'mysql-connector-python==8.0.18',
     'pandas==0.25.3',
     'prettytable==0.7.2',
-    'protobuf==3.10.0',
+    'protobuf==3.15.0',
     'python-dateutil==2.8.1',
     'pytz==2019.3',
     'PyYAML==5.1.2'
